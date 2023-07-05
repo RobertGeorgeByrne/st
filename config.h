@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "SauceCodePro Nerd Font Mono:style=Regular:size=11.4:antialias=true:autohint=true";
+static char *font = "mono:style=Regular:size=11.4:antialias=true:autohint=true";
 
 static char *font2[] = {
 	"FontAwesome:pixelsize=12:antialias=true:autohint=true"
@@ -139,7 +139,7 @@ static const char *colorname[] = {
 	"#957FB8",
 	"#555555",
 	"gray90", /* default foreground colour */
-	"#0d0c0c", /* default background colour */
+	"#1f1f28", /* default background colour */
 };
 
 
